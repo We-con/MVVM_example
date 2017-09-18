@@ -55,3 +55,13 @@ freeline_project_description.json
 gen-external-apklibs
 
 # End of https://www.gitignore.io/api/android
+.DS_Store
+.gitignore
+.idea/.DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+app/.DS_Store
+app/libs/
+gradle/.DS_Store
+
